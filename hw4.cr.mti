@@ -1,0 +1,197 @@
+C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/core.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/core.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+-- Compiling module Controller
+-- Compiling module Regfile
+-- Compiling module ALU
+-- Compiling module Jump_Ctrl
+-- Compiling module ADDER
+-- Compiling module MUX_2_1
+-- Compiling module MUX_4_1
+-- Compiling module SignExtend
+-- Compiling module LeftShift2
+-- Compiling module IF_ID
+-- Compiling module ID_EX
+-- Compiling module EX_M
+-- Compiling module M_WB
+-- Compiling module core
+
+Top level modules:
+	core
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/SignExtend.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/SignExtend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/DM.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/DM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/top.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/PC.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/PC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache
+
+Top level modules:
+	Cache
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Controller.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Controller.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/M_WB.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/M_WB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module M_WB
+
+Top level modules:
+	M_WB
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_data.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_data.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache_data
+
+Top level modules:
+	Cache_data
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Jump_Ctrl.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Jump_Ctrl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Jump_Ctrl
+
+Top level modules:
+	Jump_Ctrl
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/ID_EX.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/ID_EX.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/EX_M.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/EX_M.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_M
+
+Top level modules:
+	EX_M
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/HDU.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/HDU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HDU
+
+Top level modules:
+	HDU
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/ALU.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/MUX_2_1.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/MUX_2_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_2_1
+
+Top level modules:
+	MUX_2_1
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/LeftShift2.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/LeftShift2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LeftShift2
+
+Top level modules:
+	LeftShift2
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/IF_ID.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/IF_ID.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_valid.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_valid.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache_valid
+
+Top level modules:
+	Cache_valid
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/FU.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/FU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FU
+
+Top level modules:
+	FU
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_Control.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_Control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache_Control
+
+Top level modules:
+	Cache_Control
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/MUX_4_1.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/MUX_4_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_4_1
+
+Top level modules:
+	MUX_4_1
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Regfile.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Regfile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Regfile
+
+Top level modules:
+	Regfile
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/IM.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/IM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_tag.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_tag.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache_tag
+
+Top level modules:
+	Cache_tag
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/testfixture1.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/testfixture1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testfixture1
+
+Top level modules:
+	testfixture1
+
+} {} {}} C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/ADDER.v {1 {vlog -work work -stats=none C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/ADDER.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ADDER
+
+Top level modules:
+	ADDER
+
+} {} {}}

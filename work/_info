@@ -1,0 +1,579 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC
+vADDER
+Z1 !s110 1497714077
+!i10b 1
+!s100 ifm[zJ3RGUM=i=kRBIKg_1
+I3<@9<f9Z;hh=:GzGiJ6mV1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1493632195
+8ADDER.v
+FADDER.v
+L0 3
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1497714077.000000
+Z5 !s107 M_WB.v|EX_M.v|ID_EX.v|IF_ID.v|LeftShift2.v|SignExtend.v|MUX_4_1.v|MUX_2_1.v|ADDER.v|Jump_Ctrl.v|ALU.v|Regfile.v|Controller.v|PC.v|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/core.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/core.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@d@d@e@r
+vALU
+R1
+!i10b 1
+!s100 ARYUjkj97YAD;D>lR8Y>g1
+I5HVQlL>FjJ4DS8D5n`o0K0
+R2
+R0
+w1495435996
+8ALU.v
+FALU.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@a@l@u
+vCache
+!s110 1497713351
+!i10b 1
+!s100 ]V0cmh]<P1Hb9DkG?e<RQ0
+IB[QfbEVnl<Echh3]_<G]b1
+R2
+R0
+Z8 w1484583812
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z9 !s108 1497713351.000000
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache.v|
+!s101 -O0
+!i113 1
+R7
+n@cache
+vCache_Control
+!s110 1498185786
+!i10b 1
+!s100 19Wff9NloNO<Fj1SfDm@C1
+Im`^fAG<Sde9?n@8mCNGF42
+R2
+R0
+w1498185531
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_Control.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_Control.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1498185785.000000
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_Control.v|
+!s101 -O0
+!i113 1
+R7
+n@cache_@control
+vCache_data
+Z10 !s110 1497713352
+!i10b 1
+!s100 ]Q[ZP>__z@ZW6z[CHl>0=3
+IALiK1_979RI<X2oBB<eDW3
+R2
+R0
+R8
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_data.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_data.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_data.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_data.v|
+!s101 -O0
+!i113 1
+R7
+n@cache_data
+vCache_tag
+R10
+!i10b 1
+!s100 =kI]f1L:A=P4[G15]k1hi3
+ITY:J[ib<a2EQ?SmiA6b7W3
+R2
+R0
+R8
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_tag.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_tag.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z11 !s108 1497713352.000000
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_tag.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_tag.v|
+!s101 -O0
+!i113 1
+R7
+n@cache_tag
+vCache_valid
+R10
+!i10b 1
+!s100 AeYZ?I45mOPAVoN?j88K20
+IACGPIS@J]<5;>jJ[BCJIo1
+R2
+R0
+R8
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_valid.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_valid.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_valid.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/Cache_valid.v|
+!s101 -O0
+!i113 1
+R7
+n@cache_valid
+vController
+R1
+!i10b 1
+!s100 UPOc1G7ddXccMmHcnQMJ<0
+Ib4H5jLo6YN1@XfeQSz`?`1
+R2
+R0
+w1495434379
+8Controller.v
+FController.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@controller
+vcore
+R1
+!i10b 1
+!s100 Pz9ZbBn9RJ<]J<A9SAK7X1
+IOYodE1YdP>Ib8Lk=WWaZG2
+R2
+R0
+w1497714066
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/core.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/core.v
+L0 18
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+vDM
+R10
+!i10b 1
+!s100 fTWND^WG7Iaa[A<8H_=Mg3
+IeEDU2l_e8;f=oBa?n_jXU0
+R2
+R0
+R8
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/DM.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/DM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/DM.v|
+!s101 -O0
+!i113 1
+R7
+n@d@m
+vEX_M
+R1
+!i10b 1
+!s100 9FeZ>0EVD_QkOX=zQ<29>0
+IGPBc[Z46i0EE;STB>Q;062
+R2
+R0
+w1497712029
+8EX_M.v
+FEX_M.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@e@x_@m
+vFU
+R10
+!i10b 1
+!s100 :4fl8D0`Mn>j_hCTB_jUl3
+I6dd7>?Z3=j[EH[cGCQ6<h0
+R2
+R0
+w1495432973
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/FU.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/FU.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/FU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/FU.v|
+!s101 -O0
+!i113 1
+R7
+n@f@u
+vHDU
+R10
+!i10b 1
+!s100 VZbzz]ncDbM:Il[<k0iCG3
+I^7kRiEozM?lK;cPBNcn6H1
+R2
+R0
+w1497713341
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/HDU.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/HDU.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/HDU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/HDU.v|
+!s101 -O0
+!i113 1
+R7
+n@h@d@u
+vID_EX
+R1
+!i10b 1
+!s100 j<5EOaBZX^caYnLPR<?Wb3
+IlC[EEb3XI`gU76QNHaaZJ3
+R2
+R0
+w1497712807
+8ID_EX.v
+FID_EX.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@i@d_@e@x
+vIF_ID
+R1
+!i10b 1
+!s100 _`YVHUQ:9NNDk4Ocz?jNb3
+I1C`?HUGf=>XPkBBRHgiDd0
+R2
+R0
+w1495349987
+8IF_ID.v
+FIF_ID.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@i@f_@i@d
+vIM
+!s110 1497713353
+!i10b 1
+!s100 S8nS0Q78U`JeD^T6YDcTf2
+IoJ56DhPckEd;WidmfYj@T3
+R2
+R0
+R8
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/IM.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/IM.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1497713353.000000
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/IM.v|
+!s101 -O0
+!i113 1
+R7
+n@i@m
+vJump_Ctrl
+R1
+!i10b 1
+!s100 P=Z^RXm@T[Z5MJ?V2]^9;3
+Ifmi_4mWi^hLfMO39CXfMM1
+R2
+R0
+w1493632254
+8Jump_Ctrl.v
+FJump_Ctrl.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@jump_@ctrl
+vLeftShift2
+R1
+!i10b 1
+!s100 =X`gOO3V42G?bhGjZ_ODV1
+IPa>J]J0Wd4RSJ??2j8X@R1
+R2
+R0
+w1493632250
+8LeftShift2.v
+FLeftShift2.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@left@shift2
+vM_WB
+R1
+!i10b 1
+!s100 P4kcH7gddPkHj8zzBI5IF3
+ILb8XkR]PSJeQX@H_FmEA<1
+R2
+R0
+w1497712589
+8M_WB.v
+FM_WB.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@m_@w@b
+vMUX_2_1
+R1
+!i10b 1
+!s100 k1W<S5j^CZGGl;I]QYiiC2
+InT_8b?lc3UBNLm[Q@gKP63
+R2
+R0
+w1493632271
+8MUX_2_1.v
+FMUX_2_1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@m@u@x_2_1
+vMUX_4_1
+R1
+!i10b 1
+!s100 :55k7>^1BMSH0JzC<36Ji3
+Id>HOgbIg]OLQSM8V7RD2=3
+R2
+R0
+w1493630937
+8MUX_4_1.v
+FMUX_4_1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@m@u@x_4_1
+vPC
+R1
+!i10b 1
+!s100 kVj;H`C3O_T0@mh;FzDHm1
+I<B0Lb5>HD_dUc95llUeEX2
+R2
+R0
+w1495372412
+8PC.v
+FPC.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@p@c
+vRegfile
+R1
+!i10b 1
+!s100 UcZ<NZGD>5]^1g64PB;]O2
+Ih?<lgnmUUJjRc9EQVj_lR0
+R2
+R0
+w1493559895
+8Regfile.v
+FRegfile.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@regfile
+vSignExtend
+R1
+!i10b 1
+!s100 Ie>A3K44_]0gX>mVIUe5@1
+IZh:cj8^^iJOhaOU3c1^P51
+R2
+R0
+w1495349946
+8SignExtend.v
+FSignExtend.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@sign@extend
+vtestfixture1
+Z12 !s110 1497713354
+!i10b 1
+!s100 <G[@RFe:5eZ1^z62_W_<M2
+IPR=VeJa_7eI<d=O5Tl=^:2
+R2
+R0
+R8
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/testfixture1.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/testfixture1.v
+L0 6
+R3
+r1
+!s85 0
+31
+Z13 !s108 1497713354.000000
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/testfixture1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/testfixture1.v|
+!s101 -O0
+!i113 1
+R7
+vtop
+R12
+!i10b 1
+!s100 ZJhj;;k4@7D^XdGU==mbB1
+ICfe[iP3H6o2?_mRb7BaAB0
+R2
+R0
+w1487257844
+8C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/top.v
+FC:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SIAHUAT/Desktop/F740XXXXX/SRC/top.v|
+!s101 -O0
+!i113 1
+R7
